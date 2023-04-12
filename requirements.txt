@@ -1,5 +1,1 @@
-streamlit
-matplotlib
-scikit-learn
-seaborn
 import cv2
