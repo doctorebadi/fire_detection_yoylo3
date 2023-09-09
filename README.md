@@ -31,8 +31,7 @@ Here is the chart to describe how my performed during entire training process. I
 * obj.data and obj.names files
 * train.txt file (test.txt is optional here as well)
 
-I referenced this tutorial from an [YouTube Video](https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q) by TheAIGuy channel.
-You can follow a step-by-step walkthrough of video and the code here: https://www.youtube.com/watch?v=10joRJt39Ns
+
 
 You can download the yolov3 pretrained weights by clicking [here](https://pjreddie.com/media/files/yolov3.weights) and yolov3-tiny [here](https://pjreddie.com/media/files/yolov3-tiny.weights)
 ****************************************************************************************************************************************
@@ -52,9 +51,6 @@ If you are a student like me, and unable to pay such amount, here is a jugad for
 ## 🧠 Further Ideas
 * Integrate the model with IOT and leverage Cloud services for real-time monitoring and alerting system.
 
-## References: 
-**Streamlit Yolo Deployment** - https://srishti.hashnode.dev/object-detection-app-using-yolov3-opencv-and-streamlit-1<br>
-**YoloV3 Custom Model taining** - https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q<br>
 
 #### 💡 Need Help.
 I'm facing bugs with uploading images through Streamlit and Displaying them using OpenCV. Any kind of suggestions will be appriciable. 
